@@ -9,3 +9,4 @@ Running the script is really simple! Just open a terminal in the folder where yo
  python- rockpaperscissors.py
  
 # Result
+![rps](https://user-images.githubusercontent.com/79656394/147822180-3f526f9d-408c-49a2-b95f-e4ecc5914764.png)
